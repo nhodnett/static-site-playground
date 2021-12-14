@@ -1,3 +1,24 @@
 body {
   background-color: #F4EEED;
 }
+
+button {
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 250px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.track-package {
+  background: linear-gradient(yellow, orange);
+  margin: 5px;
+}
+
+.other-button {
+  background: linear-gradient(white, grey);
+  margin: 5px;
+}
